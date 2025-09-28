@@ -1,0 +1,4 @@
+.env
+open_webui_data
+chroma_data
+redis_data
